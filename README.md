@@ -6,7 +6,7 @@ I'm a full-stack developer focused on mobile and web development.
 I enjoy building practical applications and exploring new technologies.
 
 ## 🚀 Projects
-- Connext
+- connext
 
 ## 🛠 Tech Stack
 
