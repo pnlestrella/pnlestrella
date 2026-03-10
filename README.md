@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello World 👋
 
-<!--
-**pnlestrella/pnlestrella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Patrick.
 
-Here are some ideas to get you started:
+I'm a full-stack developer focused on mobile and web development.  
+I enjoy building practical applications and exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- Connext
+
+## 🛠 Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,python,mongodb,react,firebase)
+
+## 📫 Contact
+- pnlestrella@gmail.com
