@@ -5,6 +5,9 @@ Hi, I'm Patrick.
 I'm a full-stack developer focused on mobile and web development.  
 I enjoy building practical applications and exploring new technologies.
 
+## 🛠️ CURRENT PROJECT(s)
+- https://www.komiq.xyz/
+
 ## 🚀 Projects
 - connext
 
