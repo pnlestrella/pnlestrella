@@ -8,8 +8,6 @@ I enjoy building practical applications and exploring new technologies.
 ## 🛠️ CURRENT PROJECT(s)
 - https://www.komiq.xyz/
 
-## 🚀 Projects
-- connext
 
 ## 🛠 Tech Stack
 
@@ -17,3 +15,8 @@ I enjoy building practical applications and exploring new technologies.
 
 ## 📫 Contact
 - pnlestrella@gmail.com
+
+## 👁️ Profile Views
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=pnestrella)
+
